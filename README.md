@@ -14,3 +14,26 @@ If you would like to run the project locally, please make sure you clone the rep
 npm install
 ```
 
+If you want to run it online, here is the link: https://arcane-cove-42625.herokuapp.com/
+
+### Installing
+
+```
+npm install
+```
+
+Npm install should be installing all the packages that the project needed, if the project is still not running, please following: 
+
+```
+npm install react
+```
+
+Just make sure you have installed the latest React JS version
+
+## Running the tests
+
+This project will use terminal/bash to run locally, it usually runs in Localhost://3000 or others. 
+
+## Deployment
+
+The project is deployed by Heroku.
