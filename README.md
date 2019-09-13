@@ -14,7 +14,7 @@ If you would like to run the project locally, please make sure you clone the rep
 npm install
 ```
 
-If you want to run it online, here is the link: https://arcane-cove-42625.herokuapp.com/
+If you would like to run it online, here is the link: https://arcane-cove-42625.herokuapp.com/
 
 ### Installing
 
@@ -27,6 +27,19 @@ Npm install should be installing all the packages that the project needed, if th
 ```
 npm install react
 ```
+
+```
+npm install react-redux
+```
+
+```
+npm install redux
+```
+
+```
+npm install react-router-dom
+```
+
 
 Just make sure you have installed the latest React JS version
 
